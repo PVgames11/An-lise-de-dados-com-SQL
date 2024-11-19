@@ -1,8 +1,8 @@
 # Analise-de-dados-com-SQL
 Neste artigo vou publicar uma pequena análise de dados com SQL usando o banco de dados AdventureWorksDW2022, essa análise tem como objetivo validar o meu conhecimento em SQL para análise de dados.
 
-#1 - Quantidades de clientes, total de vendas , média de vendas e qual ano vendeu mais 
-O gestor me pediu a quantidade de clientes, o total de vendas, a média das vendase qual o ano que vendeu mais e para realizar essas consultas foi realizada as seguintes querys:#
+# 1 - Quantidades de clientes, total de vendas , média de vendas e qual ano vendeu mais 
+O gestor me pediu a quantidade de clientes, o total de vendas, a média das vendase qual o ano que vendeu mais e para realizar essas consultas foi realizada as seguintes querys:
 
 ![image](https://github.com/user-attachments/assets/c5a40fe8-590c-4bc8-a01a-fe58254e6641)
 ![image](https://github.com/user-attachments/assets/0cd70220-2246-431a-8ad0-8ba485c8d9e9)
@@ -16,8 +16,8 @@ E com isso obteve os seguintes resultados:
 E com isso o gestor me pediu para analisar melhor o ano de 2013 e assim analisei detalhadamente o ano de 2013 e então eu analisei e foi no segundo tópico
 
 
-#2 - ANÁLISE DETALHADA EM 2013
-O gestor queria analisar melhor o ano de 2013 e para isso pediu o total de vendas ,qual seria o país que mais vendeu em 2013 , qual top 5  produtos que mais vendeu em 2013 e quais clientes que mais gastaram em 2013 para isso eu usei as seguintes querys:#
+# 2 - ANÁLISE DETALHADA EM 2013
+O gestor queria analisar melhor o ano de 2013 e para isso pediu o total de vendas ,qual seria o país que mais vendeu em 2013 , qual top 5  produtos que mais vendeu em 2013 e quais clientes que mais gastaram em 2013 para isso eu usei as seguintes querys:
 
 ![image](https://github.com/user-attachments/assets/17f5dad1-3914-4b28-ac70-3cbbaadb9639)
 ![image](https://github.com/user-attachments/assets/bb67fe7c-5026-4d59-9b25-b59c3f3a66e6)
